@@ -11,7 +11,7 @@ import junit.framework.TestCase;
 
 public class EmiratesTest{
 	EmiratesSupport data = new EmiratesSupport();
-	long timeout = 500;
+	long timeout = 600;
 	FirefoxDriver drv = new FirefoxDriver();
 	@After
 	public void testcasetear(){
