@@ -3,6 +3,7 @@ package forreusable;
 import org.openqa.selenium.By;
 
 public class ClearSlideSupport {
+	
 	String baseurl = "http://www.clearslide.com";
 	String productid = "products-nav";
 	String naviid = "nav";
